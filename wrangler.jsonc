@@ -5,5 +5,15 @@
 	"assets": {
 		"binding": "ASSETS",
 		"directory": ".svelte-kit/cloudflare"
-	}
+	},
+	"routes": [
+		{
+			"pattern": "your-domain.com",
+			"custom_domain": true
+		},
+		{
+			"pattern": "www.your-domain.com",
+			"custom_domain": true
+		}
+	]
 }
