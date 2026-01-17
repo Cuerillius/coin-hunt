@@ -8,11 +8,11 @@
 	},
 	"routes": [
 		{
-			"pattern": "your-domain.com",
+			"pattern": "cyri.li",
 			"custom_domain": true
 		},
 		{
-			"pattern": "www.your-domain.com",
+			"pattern": "www.cyri.li",
 			"custom_domain": true
 		}
 	]
